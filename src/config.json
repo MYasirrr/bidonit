@@ -1,4 +1,4 @@
 {
-  "apiUrl": "http://localhost:3900/api",
-  "imageUrl": "http://localhost:3900/"
+  "apiUrl": "https://bid-onit.herokuapp.com",
+  "imageUrl": "https://bid-onit.herokuapp.com"
 }
